@@ -326,6 +326,8 @@ a:hover {
     float: left;
     margin-top: 4px;
     font-size: 16px;
+    list-style: none;
+    padding-right: 50px;
 }
 
 .navbar-nav .open .dropdown-menu > li > a {
@@ -508,6 +510,8 @@ button {
 .form-control {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
+    padding: 15px 50px 15px 10px;
+    margin-bottom: 10px;
 }
 
 .scrollToTop {
